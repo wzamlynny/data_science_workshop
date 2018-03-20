@@ -7,6 +7,7 @@ https://www.kaggle.com/c/titanic/data
 
 ## Running the presentation
 * Open and run presentation with jupyter notebooks, requires python 3, recommend using Anaconda
-* Or run through binder below (does not require any installations)
+* Or run through Binder below (does not require any installations)
+    * To use Binder you will have to manually upload your data
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/wzamlynny/data_science_workshop/master?filepath=intro_to_datascience.ipynb)
